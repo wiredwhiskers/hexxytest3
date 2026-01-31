@@ -193,220 +193,72 @@ file = "icon.png"
 hash = "300ffff2f6a03efc51d11799be8e003bc4691571dfa75035fe2212c9d354f041"
 
 [[files]]
-file = "kubejs/assets/hexcasting/patchouli_books/thehexbook/en_us/categories/l_trans.json"
-hash = "1d5251f948bdba247b3438213fc10f4f6ee0301ab11c3d509dd53170ced389b0"
-
-[[files]]
-file = "kubejs/assets/hexcasting/patchouli_books/thehexbook/en_us/entries/l_trans/ancient_wax.json"
-hash = "a16d6716145fc86a1a2afee742cd4f080d9c261eb7c8649744f439fffe8ca10b"
-
-[[files]]
-file = "kubejs/assets/hexcasting/patchouli_books/thehexbook/en_us/entries/l_trans/cmy_crystals.json"
-hash = "407eab8a355509eb78841a0f6fe4eb80cd554b8aa4ec8d362e50a164fee88d21"
-
-[[files]]
-file = "kubejs/assets/hexcasting/patchouli_books/thehexbook/en_us/entries/l_trans/glass.json"
-hash = "81ac4bf6d9c7999ee82e19c26a4ee9d1ef56c15fcc01697bf29f63991e316e1b"
-
-[[files]]
-file = "kubejs/assets/ht32/lang/en_us.json"
-hash = "37cbf046f2cb2caa995f2e3918384a27cb2aa43a90c650dd567b195fc7f1480d"
-
-[[files]]
-file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/ht32/functions/check_entity.mcfunction"
-hash = "2e17dfc1c9e2aae704ffe1e597c40c5a5beef5eb5572b8b5b0aeff059d097fdd"
-
-[[files]]
 file = "kubejs/data/ht32/functions/dimension_shadow.mcfunction"
 hash = "13ea45e8949744e35c9cdcb0d136486f546896f02207c52a4e4f6624c6b8079e"
 
 [[files]]
-file = "kubejs/data/ht32/functions/give_id.mcfunction"
-hash = "27fa192e54e967b73a727a7009997887e73e3ca61633e319df2f433bb3142a76"
-
-[[files]]
-file = "kubejs/data/ht32/functions/l_trans/pre.mcfunction"
-hash = "8ba5541a063bef5132747db1281ea73030b40a0e9944fc1d042f58da4a50a2fb"
-
-[[files]]
-file = "kubejs/data/ht32/functions/l_trans/transmute.mcfunction"
-hash = "598055338c4e82c7104376f4a0051cc81b0fd46e56ecb962cb96da72014ad5e8"
-
-[[files]]
-file = "kubejs/data/ht32/functions/load.mcfunction"
-hash = "6bc6c516ca1a3f700bb1a5f1b4e785fff93bb30257825558c01afb860e2c3234"
-
-[[files]]
-file = "kubejs/data/ht32/functions/swap/check.mcfunction"
-hash = "3a52d6d3af1e781f8a123f657af64111e29fc635e99e97e3324923a3c70bf90c"
-
-[[files]]
-file = "kubejs/data/ht32/functions/swap/find.mcfunction"
-hash = "91f70f8662ce5c3de2924c3119aca69c0b25312d06a759cceb9ea88ab58039d6"
-
-[[files]]
-file = "kubejs/data/ht32/functions/swap/go.mcfunction"
-hash = "7424468cd84d8233844d2a6088da7664459ae53f6d1617515a89552524e7d3bf"
-
-[[files]]
-file = "kubejs/data/ht32/functions/swap/leave.mcfunction"
-hash = "9262875596f92de2bd6a070002efe48ec5b0b7323302c537e57e15bef771ff0e"
-
-[[files]]
-file = "kubejs/data/ht32/functions/swap/swap.mcfunction"
-hash = "43cbd8f254444ea2b832d4915f851b36d1800bfdc677e9d0c12e0845f9637f87"
-
-[[files]]
-file = "kubejs/data/ht32/functions/tick.mcfunction"
-hash = "98887b13e0473d04a08a5a93cc6a4ad76c013b6deb091b27fa9f140d2c60690c"
-
-[[files]]
-file = "kubejs/data/ht32/item_modifiers/fill_head.json"
-hash = "12eba45cb68cc439667982c21d12c2eb1161f21bc38ac270ef7ae3b638633792"
-
-[[files]]
-file = "kubejs/data/ht32/loot_tables/chests/noo_vault.json"
-hash = "7b424bfaebd4fb3721d9a1216def56b6b831a7f176b4f2e9d116424edee809c4"
-
-[[files]]
-file = "kubejs/data/ht32/origins/axolane.json"
-hash = "62251804df85ec32e5e80f601b69b5f42f6bcc665ea7e4b4c1fb883ea6149b50"
-
-[[files]]
 file = "kubejs/data/ht32/origins/bumblekin.json"
-hash = "26875d964b148f11ab38133b5084c8a2b78385460ee37bbb897c14dd22e9df38"
-
-[[files]]
-file = "kubejs/data/ht32/origins/lich.json"
-hash = "2b7101f06dc14d29e26441eaedae0ce5022e2a6ce179bc85b9e4a587a8cd58af"
-
-[[files]]
-file = "kubejs/data/ht32/origins/mobile_mind.json"
-hash = "20915b748ff04597fca0db8031faf931b4cf6f98882a85dcc0d279b088f5ff24"
+hash = "3e0c6476afffd3d25f2db64875ab6135ce0f266345b8741a381b0ef69c860cfc"
 
 [[files]]
 file = "kubejs/data/ht32/origins/reality_engine.json"
-hash = "0b67b9490b782c1ad5b65fba824a1b192b545b9449f457a2d4512f5e6bc58a0c"
-
-[[files]]
-file = "kubejs/data/ht32/powers/abystomic.json"
-hash = "f9800b1ac465e6cbda203d8a5b98c727831d25a8c0b99bae510f474607e5ab27"
+hash = "3e2130405185c89f1d36df28852782ed4b39d8986400593298f9e5972722f5e1"
 
 [[files]]
 file = "kubejs/data/ht32/powers/barbed_stinger.json"
-hash = "36e54d24ee1d4453bd22ae398d019417ec6cbef5012107ad28577ff7ca93f03e"
+hash = "0da0abed736be674cd9e807203da1a9fabac34bdcaae3e772e9e4166e726823b"
 
 [[files]]
 file = "kubejs/data/ht32/powers/bbread_buff.json"
 hash = "15c852c4bcafdb5ec7a109e6e242fe07dbe0e13d53cee36ab7068350262c18f8"
 
 [[files]]
-file = "kubejs/data/ht32/powers/bionic.json"
-hash = "df51d03ee50a036fa5e486aef7cc7b6a96ceae37ba2c106c7c8917cf541f3d0d"
-
-[[files]]
-file = "kubejs/data/ht32/powers/body_builder.json"
-hash = "6efaabdf13d91f24626f47e29821d04fef8d89d3c9564fd23566ccc2edec361d"
-
-[[files]]
-file = "kubejs/data/ht32/powers/breathless_glide.json"
-hash = "74e23acff04a6e6289493787359b99a0bbe0353559d36a1ffc1f73ab1f9adf19"
-
-[[files]]
 file = "kubejs/data/ht32/powers/destabilizing.json"
-hash = "3067a0695a073087621244ee1a90da125d23cdb0d8ae43b1bdc7b0d2a5f79efb"
+hash = "90125afe6eee04086ac723a28d4ca6c702c5b10a53edf799e29ecb9d47ca3710"
 
 [[files]]
 file = "kubejs/data/ht32/powers/dimension_shadow.json"
-hash = "1546a17d573aad6857814f8d1f1b0b861b97552a998a9de1ddf84c78d76fd85a"
-
-[[files]]
-file = "kubejs/data/ht32/powers/emergency_swap.json"
-hash = "42f2af6f2475102c972757132623b68b0f946ca5cb1119a29e23a1b41e9acc1b"
+hash = "9692688848d0f6db8219bddc0d16638732aef72063c159860c085dd7de866f80"
 
 [[files]]
 file = "kubejs/data/ht32/powers/flight.json"
-hash = "ed27ca5189debe557e9274cbec5c6a7326d856ecfe940a5cc14bf91ff83a56b8"
+hash = "bcf0451d07708b1243cee7a00f7c93db16fa5dcb5875364fd50448af8bb90945"
 
 [[files]]
 file = "kubejs/data/ht32/powers/hive_protection.json"
-hash = "03fa53bb31282d72d14a4a1423edf7ea3434394cb2f683a39d6c17020282586e"
+hash = "8e69a4669acfa4770eb672127f8e710455a0dcacbac2a1e236b163821b2ab7c1"
 
 [[files]]
 file = "kubejs/data/ht32/powers/hively_home.json"
-hash = "c7af9611e5b479f1adce42ea8d7dda0bece633083c2542550e76a81fd4f78778"
-
-[[files]]
-file = "kubejs/data/ht32/powers/media_siphon.json"
-hash = "34be3978495225f0292e47db5f7b3154ff856bb9860951926417ede907bebcba"
+hash = "7ac68017d6e6b610947637f3b3fa14b7797847ee7a91e4fdf753819c1858d011"
 
 [[files]]
 file = "kubejs/data/ht32/powers/pollinator.json"
-hash = "96099ac64e7547a4404a869196dfa170c9cd7c780286dcdcddcb07edcbedfbf5"
-
-[[files]]
-file = "kubejs/data/ht32/powers/ruminate_xp.json"
-hash = "f3675954f9814fa11fa11ad86587ba4431ba1c797ea2500469e1ae8ee7bc8e34"
-
-[[files]]
-file = "kubejs/data/ht32/powers/scrying_eyes.json"
-hash = "be42dd24d64fce002ad34d0b4e7c41b536a5fc67af34aade0ef2d0d6dd8e1857"
-
-[[files]]
-file = "kubejs/data/ht32/powers/shock_absorb.json"
-hash = "5a1a5ac1a5f530a7e61449c896dc50f18c3de33072be6a47cafd3d8a500a9397"
-
-[[files]]
-file = "kubejs/data/ht32/powers/swap_bodies.json"
-hash = "cffd5457c51d47b17161e5540281e9883ce7f32bb563c2a5202d2e9421c29c1e"
-
-[[files]]
-file = "kubejs/data/ht32/powers/swap_sickness.json"
-hash = "6dc049e596b4747b6d4732cf54cc675734b9059c6112bb6cb087239603fea623"
+hash = "091e174b3168f54eb97a48294f193d1ff18ef07095210c4aab4ba46bea20e443"
 
 [[files]]
 file = "kubejs/data/ht32/powers/unstable_vitality.json"
-hash = "f18e01164f83aa896a98df23d37fbd24bad9122c28f8eabad9b173ff05670999"
-
-[[files]]
-file = "kubejs/data/ht32/powers/vestigial.json"
-hash = "92d7505e8e492d2e46ebfc11987fea5fe8725f94454bf7b18ec2e0afcd34538e"
+hash = "17b81f8bee118916d1fa7fc30ab2569a3a276ca3840bce4467f0aaed886c4739"
 
 [[files]]
 file = "kubejs/data/ht32/powers/wax_weaver.json"
-hash = "ac6b27739704681d0917bf17249eddb6af46a8aae6d9c2eee73f69e81124b4f2"
+hash = "776680038705c29a0ad17aca7462b829dfcda7d9a2381575307880658bc4cf30"
 
 [[files]]
 file = "kubejs/data/ht32/powers/weight_alter.json"
-hash = "932cf382df711bc90d54cbf476a265aa6b8b5183af17611e3652440756d0ad22"
+hash = "947a236ece7ea8b615c60f444f506320406c01d3efb05a452efe469cd0467a7c"
 
 [[files]]
 file = "kubejs/data/ht32/predicates/destabilize.json"
 hash = "042d55ab4a79a47329560426bf6209f5191daa7a689dca3b2fd270fea3227028"
 
 [[files]]
-file = "kubejs/data/ht32/predicates/l_trans.json"
-hash = "9c27f7d6d04d0389aa7315b27eeb93482dd52e50b0885d23680feeae1ea8beb7"
-
-[[files]]
 file = "kubejs/data/ht32/recipes/bee_bread.json"
 hash = "7907bd215209842f28fd162926275f05fa6e92d0b5b99bb8979f1df094c2afe9"
 
 [[files]]
-file = "kubejs/data/minecraft/tags/functions/load.json"
-hash = "716a9901b0fc0966e84975ca48508656bdf6b51d14f677c37b4d9b555ca0449b"
-
-[[files]]
-file = "kubejs/data/minecraft/tags/functions/tick.json"
-hash = "aca56098d1e72378ddf8a938c5d6c5c40a96cdfd4f1a20afb49dcecd410373da"
-
-[[files]]
 file = "kubejs/data/origins/origin_layers/origin.json"
-hash = "0034f2ff62103b42b37f1a379e1fb6f1c02877bd727a147d7a6998a0f31f4368"
+hash = "e5568fcd5418f07531e103fd93fce9342087541c2a5c24a5820ff42671507189"
 
 [[files]]
 file = "local/ftbchunks/client-config.snbt"
@@ -954,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "7ed8df687dc5d9229b3eabc08e8ef9c0bc3825d0f75736c53c1470adf43b4217"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -1089,11 +941,6 @@ file = "mods/hexcellular-1.1.0.jar"
 hash = "ee7ce93b869ccdd4637860f73c13c0fa4a22220f117cdcb4e943cfa37e119073"
 
 [[files]]
-file = "mods/hexcessible.pw.toml"
-hash = "b516b8105445dc6173dee21cad91e2eb26a0371ff0a222602aa2ee680e68cc8f"
-metafile = true
-
-[[files]]
 file = "mods/hexchanting.pw.toml"
 hash = "92fb9e7708bd38c234288737b67599aab27c526dfec02d7f7776aad8a391d984"
 metafile = true
@@ -1114,11 +961,6 @@ hash = "ad0fc01d2886b6cb54f38c4bade07b682f18cdc77c3b0047b6043653b5672807"
 [[files]]
 file = "mods/hexodus-1.0.0.jar"
 hash = "d8b97fd1b1a53bcda35cdc2f4982e5192256f01a0899c334a62ec860011bc104"
-
-[[files]]
-file = "mods/hexodus.pw.toml"
-hash = "206c2fa79fea2298513a362b7a7d37cfa87828ffc8ab8aed5ad8b3253db0b486"
-metafile = true
 
 [[files]]
 file = "mods/hexpats.pw.toml"
@@ -1156,11 +998,6 @@ metafile = true
 [[files]]
 file = "mods/hexvr.pw.toml"
 hash = "51b15ffe7e536434995a47477b354bc6f6116795f6db767cec1f9cd5fbe0c02e"
-metafile = true
-
-[[files]]
-file = "mods/hierophantics.pw.toml"
-hash = "e3dc35867033e7f35f9209d305fbf01c0842cf2180ef3fb23097a118d15e585e"
 metafile = true
 
 [[files]]
@@ -1896,11 +1733,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "0ca4c5f047054da21722585f1b61f649daa4abab1a41b189f97701f9c11c269c"
-metafile = true
-
-[[files]]
-file = "mods/yaha.pw.toml"
-hash = "126756cfb330eafa3a311f28cfbfe414870466498a305fac2a55c639909acf97"
 metafile = true
 
 [[files]]
