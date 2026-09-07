@@ -1,13 +1,13 @@
 name = "vista"
-filename = "vista-1.20-3.1.2-fabric.jar"
+filename = "vista-1.20-3.1.3-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zuARv1N7/versions/fFmSzhfQ/vista-1.20-3.1.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/zuARv1N7/versions/7ApkNrsx/vista-1.20-3.1.3-fabric.jar"
 hash-format = "sha512"
-hash = "c40a8c64d7d2d67886560c01ea263b5b80696bfab7dc8492cb5c82bb4059476136cf1bb0d698e2b617a2e0acea9818617973bb56e84820188081cc2f29b0bbd5"
+hash = "5c6eab404c0728058b262a5aa275d65a90a4b7049293b147b1e3b5939d9df6520121af465bfc29bc24e1738ba826f9150c46a6fa1e93491d451d6eb10f64c774"
 
 [update]
 [update.modrinth]
 mod-id = "zuARv1N7"
-version = "fFmSzhfQ"
+version = "7ApkNrsx"

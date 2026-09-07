@@ -1097,6 +1097,21 @@ hash = "58ce7f2e4562390892753e25d008cadfdc78fbbdf36af2875a3cc46a47aba0e4"
 metafile = true
 
 [[files]]
+file = "mods/exposure-expanded.pw.toml"
+hash = "73d72d24ab8ce7cb7d3b1aa6cd16b511ef76b5599450a41e9d09d5a3a1baa797"
+metafile = true
+
+[[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "e51650b02716c765a0e8d45d3d43aa680275a860d58b344f4f430a459693a6f9"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "f65adc1e72f8059fa5f643e5c48d297fbde9da4a95d10b00c2dd76bd7df192d7"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "a822c628af8202734ff60c8d8674211965db934c29b0589ba3d86038063ca5a8"
 metafile = true
@@ -1844,7 +1859,7 @@ metafile = true
 
 [[files]]
 file = "mods/slate-works.pw.toml"
-hash = "a7d049e908ae3a826176135b6bd753925451fb74fe3fdbd4ec3372ead38ab224"
+hash = "a79556aaf013349c988f3db3c4afe5a5cd4e60debfedf90dddaa6cf9a7bf53b9"
 metafile = true
 
 [[files]]
@@ -2057,7 +2072,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "adc198ed35d3a7bf6a0b103c287178889a2744845074d33a391502f6d67398e0"
+hash = "680a9897d517e03ea6cddb294729a831f358977b9819dd03a635e91c01086193"
 metafile = true
 
 [[files]]
@@ -2087,12 +2102,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6eea2d2c0de653814d77c0b2af340e4bdbc96a6f03bd7ecad979d4fd3496e5c3"
+hash = "27c15c41714ade0d4a5b5c101daaeb1313964718d8cdae71a889f55bf7a2d485"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e27b31b814d55ef0b21a2c80180c9143e83187564d3aea837a16baaa4295c39c"
+hash = "936f9798833156f12452bbb94df69941e2a2502fadfab4615f9b65b300b7985b"
 metafile = true
 
 [[files]]
